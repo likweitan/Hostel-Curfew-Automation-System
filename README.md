@@ -1,4 +1,4 @@
-# Hostel-Curfew-Automation-System" 
+# Hostel-Curfew-Automation-System
 
 - Developed a RFID entry system using Arduino
 - Designed a lightweight windows application using C# and MySQL database
